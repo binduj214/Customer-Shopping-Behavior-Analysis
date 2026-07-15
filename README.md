@@ -43,7 +43,7 @@ This project analyzes customer shopping behavior using SQL, Python, and Power BI
 
 ## Dashboard Preview
 
-Upload the dashboard screenshot (`Dashboard.png`) to this repository to display it here.
+![Customer Shopping Behavior Dashboard](Dashboard.png)
 
 ## Author
 **Bindu J**
